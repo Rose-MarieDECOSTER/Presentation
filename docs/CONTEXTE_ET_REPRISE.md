@@ -51,7 +51,7 @@ Rubrique « Ce qui nourrit ma curiosité », après le professionnel.
 
 ## Contenus manquants / prochaines étapes
 
-1. Cinq photos personnelles de voyage restent à fournir, avec textes alternatifs adaptés. Le portrait est intégré.
+1. Cinq photos personnelles de voyage intégrées et validées au lot 6, avec textes alternatifs adaptés. Le portrait est intégré.
 2. Relire et valider la rédaction des pages projets ; fournir des livrables partageables et des résultats vérifiés.
 3. La rubrique « Regards & analyses » est supprimée à la demande de Rose-Marie. Aucun développement du mémoire n’est attendu ; son ancienne URL redirige vers les réalisations.
 4. Fournir les recommandations LinkedIn exactes et choisir les auteurs/fonctions à afficher. Aucun faux témoignage ; lien réel vers le profil en attendant.
@@ -123,3 +123,24 @@ URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces
 - Le module optionnel d’initiation IA de l’ESSCA n’est pas présenté comme suivi.
 - Remise de diplôme : lien https://lnkd.in/p/eSv4VPWD fourni par Rose-Marie, contenu non vérifié.
 - EDHEC : intitulé du CV « Master Management du développement commercial » conservé ; la brochure du « Cycle supérieur de management » est explicitement présentée comme référence distincte. Rose-Marie confirme de conserver l’intitulé Master et autorise la publication du lot 4.
+
+## Lot 5 — préparé partiellement, en attente des textes
+
+- 25 liens de commentaires uniques, répartis sur 6 publications. Dédoublonnage par identifiant de commentaire, sans supprimer les commentaires distincts d’une même publication.
+- Les 6 publications renvoient à une page de connexion LinkedIn ; aucun commentaire ni auteur récupéré. Aucun doublon de contenu ne peut donc encore être confirmé.
+- Inventaire dans docs/TEMOIGNAGES_SOURCES.json, modèle de carte dans docs/TEMOIGNAGE_MODELE.html.
+- Affichage prévu : commentaire exact, auteur vérifié, lien court « Voir le commentaire sur LinkedIn » en dessous conservant l’URL complète.
+- Ne pas publier de citations inventées ni de champs vides. La rubrique du site public reste inchangée.
+- Attente : captures ou texte des commentaires fournis par Rose-Marie, avec les noms visibles. Puis intégration, contrôle des doublons de contenu et aperçu pour validation.
+
+## Lot 5 — reporté à la demande de Rose-Marie
+
+Rose-Marie souhaite travailler les témoignages ultérieurement et demande de passer au lot 6. Conserver l’inventaire des 25 commentaires et le modèle de carte. Ne pas supprimer cette tâche ni la marquer terminée ; attendre les textes/captures.
+
+## Lot 6 — validé par Rose-Marie le 8 novembre 2026
+
+- Intitulés corrigés dans « Ce qui nourrit ma curiosité » : Portugal - Lisbonne ; Grèce - Santorin ; Tanzanie - Parc du Serengeti ; Italie - Rome.
+- Écosse conservée, conformément au contexte validé ; descriptions existantes conservées.
+- Cinq photos personnelles reçues et intégrées : 1 Portugal, 2 Tanzanie, 3 Santorin, 4 Rome, 5 Écosse. Fichiers originaux conservés ; cadrage d’affichage par CSS.
+- Photo destinée à la rubrique entreprises mentionnée dans le PDF source : pas identifiable dans ce PDF sans images. Les trois photos reçues ont été affectées explicitement par Rose-Marie à la page des réalisations (lot 2), et non au parcours entreprises. Attendre la photo ou son identification avant de la placer dans cette autre rubrique.
+- Validation reçue : publication des cinq photographies et des intitulés sur GitHub.
