@@ -14,7 +14,7 @@ Portfolio de candidature de Rose-Marie De Coster. V1 demandée explicitement sur
 - Formation & compétences = parcours, compétences, dispositifs de formation.
 - Compétences et réalisations avant expériences. Accueil synthétique à défiler, pages dédiées pour approfondir.
 - Menu demandé : Expertises, Réalisations, Parcours, Formations, Distinction. Contact conservé.
-- Portrait dès l’accueil, fourni ultérieurement : ne pas inventer le visage.
+- Portrait LinkedIn fourni et confirmé par Rose-Marie intégré dès l’accueil : ne pas retoucher le visage.
 - Fond clair, taupe/marron/vert végétal, chaleur et sobriété moderne. Aucune feuille décorative. Sans visuels de bureau génériques.
 - Dernière correction : enlever l’aspect fondu/translucide EN HAUT seulement. Implémenté avec fond uni taupe opaque et rectangle portrait sauge ; dégradé conservé au pied de page. À ajuster si l’utilisatrice voulait conserver un dégradé net au lieu d’un aplat.
 - Animations discrètes, respect de prefers-reduced-motion, navigation responsive.
@@ -51,7 +51,7 @@ Rubrique « Ce qui nourrit ma curiosité », après le professionnel.
 
 ## Contenus manquants / prochaines étapes
 
-1. Portrait et cinq photos personnelles (ou choix explicite d’illustrations), avec textes alternatifs adaptés.
+1. Cinq photos personnelles de voyage restent à fournir, avec textes alternatifs adaptés. Le portrait est intégré.
 2. Relire et valider la rédaction des pages projets ; fournir des livrables partageables et des résultats vérifiés.
 3. Fournir le mémoire et sélectionner les extraits. Aucune citation inventée : page d’attente.
 4. Fournir les recommandations LinkedIn exactes et choisir les auteurs/fonctions à afficher. Aucun faux témoignage ; lien réel vers le profil en attendant.
@@ -74,3 +74,11 @@ Deux liens ajoutés en tête de la page distinction.html, en conservant les sour
 - Publication LinkedIn : https://lnkd.in/p/eHaKEx9f
 
 URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces deux destinations ; leur contenu n’a donc pas été résumé ni cité. Le libellé LinkedIn reste générique.
+
+## Photos et logos intégrés — 8 novembre 2026
+
+- Accueil : fichier « Photo pour mon CV.jpeg », confirmé par Rose-Marie comme photo de profil LinkedIn. Original non retouché dans assets/portrait-rose-marie.jpeg.
+- Page distinction : prise de parole en veste bleue, photo originale de la FaSEST dans assets/prix-andre-lebrun.jpg. Source et lien sous la photo. Cette photo ne doit pas remplacer celle de l’accueil.
+- Logos dans le résumé ET la page détaillée du parcours : ArcelorMittal, Coca-Cola Europacific Partners, Leroy Merlin et IXAD.
+- Nom vérifié : IXAD — École des avocats du Nord-Ouest (https://ixad.fr/), pas « exad ». CV source historique conservé.
+- Sources : https://ixad.fr/wp-content/uploads/2026/10/IXAD-logo-vecto.svg ; https://www.leroymerlin.fr/cdp-site/6.68.3/static/logos/adeo-brands/leroy-merlin.svg ; https://commons.wikimedia.org/wiki/File:Arcelormittal-logo.svg ; https://commons.wikimedia.org/wiki/File:Coca-Cola_Europacific_Partners_Logo_2021.svg . Logos servis localement et utilisés pour identifier le parcours, sans suggérer un partenariat.
