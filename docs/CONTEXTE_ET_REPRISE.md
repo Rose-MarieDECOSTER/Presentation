@@ -66,3 +66,11 @@ HTML/CSS/JS natif, sans build, chemins relatifs compatibles `/Presentation/`. Gi
 ## Vérification de la V1
 
 Vérification des liens internes et ancres, absence de téléphone, syntaxe JS et inspection du PDF. Vérification visuelle navigateur et état de publication rapportés dans le message de livraison ; ne pas supposer qu’une publication réussit du seul fait d’un commit.
+
+## Ajout du 8 novembre 2026 — publications fournies par Rose-Marie
+
+Deux liens ajoutés en tête de la page distinction.html, en conservant les sources existantes :
+- Article FaSEST : https://fasest.univ-lille.fr/actu/le-prix-andre-lebrun-decerne-a-rose-marie-de-coster-etudiante-du-master-otdrh
+- Publication LinkedIn : https://lnkd.in/p/eHaKEx9f
+
+URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces deux destinations ; leur contenu n’a donc pas été résumé ni cité. Le libellé LinkedIn reste générique.
