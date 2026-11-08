@@ -90,3 +90,11 @@ URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces
 - Navigation renommée « Distinction et engagement » sur toutes les pages possédant un menu ; titre de la page dédiée harmonisé.
 - Après validation de Rose-Marie, pousser les changements sur GitHub et vérifier la publication GitHub Pages.
 - Suite proposée : enrichir la page Parcours professionnels avec les quatre compétences et la démarche en trois temps fournies par Rose-Marie.
+
+## Lot 2 — validé par Rose-Marie le 8 novembre 2026
+
+- Page Parcours professionnels enrichie : quatre compétences, démarche en trois temps, convictions RH et fondements théoriques.
+- Résumé d’accueil mis à jour. Détails des compétences dépliables ; présentation adaptée au mobile.
+- Les statuts sont distingués : portail développé et lancement programmé ; tableau de bord proposé ; enquête relue et complétée.
+- Trois photos reçues et intégrées : deux pages de publication redressées et recadrées au moyen de fenêtres SVG conservant les pixels d’origine, et un portrait avec trophée. Le portrait est présenté à sa taille native pour limiter la pixellisation.
+- Validation reçue : publier le lot 2 avec les trois photos.
