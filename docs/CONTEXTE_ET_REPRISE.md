@@ -98,3 +98,19 @@ URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces
 - Les statuts sont distingués : portail développé et lancement programmé ; tableau de bord proposé ; enquête relue et complétée.
 - Trois photos reçues et intégrées : deux pages de publication redressées et recadrées au moyen de fenêtres SVG conservant les pixels d’origine, et un portrait avec trophée. Le portrait est présenté à sa taille native pour limiter la pixellisation.
 - Validation reçue : publier le lot 2 avec les trois photos.
+
+## Lot 3 — validé par Rose-Marie le 8 novembre 2026
+
+- Page Distinction et engagement : prix 2024, intervention Coca-Cola, formation proche aidant CRA et proposition de formulation sur la diversité.
+- Sources CRA consultées : page de présentation et catalogue FPA 2026 fourni, notamment p. 4. Aucun module particulier ni date de formation attribués à Rose-Marie.
+- Publication ePg6E7Ym et sa photo récupérées après un nouvel essai. Photo originale intégrée dans assets/prix-andre-lebrun-linkedin.jpg avec crédit Alumni Master OTDRH. Le lien eDJaCCCQ renvoie 404 : contenu de l’intervention Coca-Cola à préciser.
+- Formulation diversité et texte Coca-Cola enrichi à partir de la capture validés avec le lot 3.
+- Publications du prix existantes conservées.
+
+### Précision Coca-Cola — capture fournie par Rose-Marie
+
+- Le partage LinkedIn de Rose-Marie remercie CCEP de lui avoir permis de participer à la démarche.
+- Publication CCEP : mobilisation en juin et juillet sur la diversité des familles, les réalités vécues par les familles LGBT+ et la parentalité inclusive, dans le cadre du Mois des Fiertés.
+- La page présente une participation, sans attribuer à Rose-Marie l’organisation de la conférence, les formations, les stands ou les chiffres globaux de la campagne.
+- Ne pas inférer de cette participation une orientation sexuelle ni une situation familiale personnelle.
+- Texte Coca-Cola enrichi à partir de cette capture ; le lien source est conservé.

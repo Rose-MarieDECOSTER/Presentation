@@ -7,3 +7,8 @@
 
 /* Photos originales : recadrage non destructif et affichage lisible */
 .project-photo-grid{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr);gap:32px;align-items:start}.project-photo{margin:0}.project-photo img{display:block;max-width:100%;height:auto}.project-photo a{display:block}.project-photo figcaption{font-size:13px;color:#655b50;line-height:1.5;margin-top:14px}.photo-cover{grid-column:1/-1}.photo-cover img,.photo-document img{width:100%;border:1px solid #d6cbbf}.photo-person{background:#f0ebe3;padding:30px;display:flex;flex-direction:column;align-items:center}.photo-person img{width:290px}.photo-person figcaption{text-align:center}@media(max-width:700px){.project-photo-grid{grid-template-columns:1fr;gap:28px}.photo-cover{grid-column:auto}.photo-person{padding:24px}}
+
+/* Distinction et engagement */
+.distinction-detail{max-width:1180px}.distinction-award{margin-top:55px}.distinction-award .award-photo{max-width:900px}.engagement-section{margin:65px 0}.engagement-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px}.engagement-card{background:#fffdf9;border:1px solid #dfd4c6;padding:30px}.engagement-conviction{background:#e8ecdf;padding:32px;margin-top:30px}.engagement-conviction p{max-width:850px;margin-bottom:0}.award-sources{margin:65px 0 20px}@media(max-width:700px){.engagement-grid{grid-template-columns:1fr}.engagement-card,.engagement-conviction{padding:24px}}
+
+.distinction-award .award-photo{max-width:540px;margin-inline:auto}
