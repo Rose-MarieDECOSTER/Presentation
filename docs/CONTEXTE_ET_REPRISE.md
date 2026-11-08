@@ -13,7 +13,7 @@ Portfolio de candidature de Rose-Marie De Coster. V1 demandée explicitement sur
 - Projets & transformation = projets RH, transformations, engagement.
 - Formation & compétences = parcours, compétences, dispositifs de formation.
 - Compétences et réalisations avant expériences. Accueil synthétique à défiler, pages dédiées pour approfondir.
-- Menu demandé : Expertises, Réalisations, Parcours, Formations, Distinction. Contact conservé.
+- Menu demandé : Expertises, Réalisations, Parcours, Formations, Distinction et engagement. Contact conservé.
 - Portrait LinkedIn fourni et confirmé par Rose-Marie intégré dès l’accueil : ne pas retoucher le visage.
 - Fond clair, taupe/marron/vert végétal, chaleur et sobriété moderne. Aucune feuille décorative. Sans visuels de bureau génériques.
 - Dernière correction : enlever l’aspect fondu/translucide EN HAUT seulement. Implémenté avec fond uni taupe opaque et rectangle portrait sauge ; dégradé conservé au pied de page. À ajuster si l’utilisatrice voulait conserver un dégradé net au lieu d’un aplat.
@@ -53,7 +53,7 @@ Rubrique « Ce qui nourrit ma curiosité », après le professionnel.
 
 1. Cinq photos personnelles de voyage restent à fournir, avec textes alternatifs adaptés. Le portrait est intégré.
 2. Relire et valider la rédaction des pages projets ; fournir des livrables partageables et des résultats vérifiés.
-3. Fournir le mémoire et sélectionner les extraits. Aucune citation inventée : page d’attente.
+3. La rubrique « Regards & analyses » est supprimée à la demande de Rose-Marie. Aucun développement du mémoire n’est attendu ; son ancienne URL redirige vers les réalisations.
 4. Fournir les recommandations LinkedIn exactes et choisir les auteurs/fonctions à afficher. Aucun faux témoignage ; lien réel vers le profil en attendant.
 5. Ajouter d’autres articles pour le prix si souhaité.
 6. Valider le PDF public simplifié et éventuellement rétablir une mise en page sur une page.
@@ -82,3 +82,11 @@ URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces
 - Logos dans le résumé ET la page détaillée du parcours : ArcelorMittal, Coca-Cola Europacific Partners, Leroy Merlin et IXAD.
 - Nom vérifié : IXAD — École des avocats du Nord-Ouest (https://ixad.fr/), pas « exad ». CV source historique conservé.
 - Sources : https://ixad.fr/wp-content/uploads/2026/10/IXAD-logo-vecto.svg ; https://www.leroymerlin.fr/cdp-site/6.68.3/static/logos/adeo-brands/leroy-merlin.svg ; https://commons.wikimedia.org/wiki/File:Arcelormittal-logo.svg ; https://commons.wikimedia.org/wiki/File:Coca-Cola_Europacific_Partners_Logo_2021.svg . Logos servis localement et utilisés pour identifier le parcours, sans suggérer un partenariat.
+
+
+## Lot 1 — 8 novembre 2026 — validé par Rose-Marie
+
+- Rubrique mémoire retirée de l’accueil ; ancienne URL conservée avec une redirection vers les réalisations.
+- Navigation renommée « Distinction et engagement » sur toutes les pages possédant un menu ; titre de la page dédiée harmonisé.
+- Après validation de Rose-Marie, pousser les changements sur GitHub et vérifier la publication GitHub Pages.
+- Suite proposée : enrichir la page Parcours professionnels avec les quatre compétences et la démarche en trois temps fournies par Rose-Marie.

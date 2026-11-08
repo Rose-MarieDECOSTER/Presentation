@@ -19,8 +19,8 @@ Site statique personnel, hébergé sur GitHub Pages. Aucun framework, aucune ins
 - `index.html` : accueil à défiler, compétences, réalisations, formations, distinction, intérêts.
 - `parcours.html` : expériences détaillées.
 - `parcours-professionnels.html`, `pse.html`, `nccm.html` : projets.
-- `distinction.html` : publications liées au prix André Lebrun.
-- `memoire.html` : espace réservé aux futurs extraits.
+- `distinction.html` : rubrique Distinction et engagement, avec les publications liées au prix André Lebrun.
+- `memoire.html` : redirection de l’ancienne rubrique vers les réalisations.
 - `assets/style.css` : palette, mise en page responsive, animations et réduction des mouvements.
 - `assets/site.js` : menu mobile accessible, sans dépendance.
 - `assets/CV_Rose_Marie_De_Coster.pdf` : téléchargement public, sans téléphone, mise en page de lecture distincte de l’original Word.
@@ -39,3 +39,4 @@ Dans Settings > Pages : « Deploy from a branch », branche `main`, dossier `/ (
 ## Reprendre avec un assistant
 
 > Reprends le portfolio dans Rose-MarieDECOSTER/Presentation. Lis d’abord README.md et docs/CONTEXTE_ET_REPRISE.md, puis inspecte les fichiers actuels. Respecte les décisions validées et demande les contenus manquants sans les inventer.
+
