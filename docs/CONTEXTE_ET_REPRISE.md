@@ -114,3 +114,12 @@ URLs reprises exactement de la demande. Le lecteur web ne pouvait pas ouvrir ces
 - La page présente une participation, sans attribuer à Rose-Marie l’organisation de la conférence, les formations, les stands ou les chiffres globaux de la campagne.
 - Ne pas inférer de cette participation une orientation sexuelle ni une situation familiale personnelle.
 - Texte Coca-Cola enrichi à partir de cette capture ; le lien source est conservé.
+
+## Lot 4 — validé par Rose-Marie le 8 novembre 2026
+
+- Nouvelle page formations.html et accès depuis la rubrique formations de l’accueil.
+- Contenus synthétisés à partir des programmes fournis : OTDRH 2024, CU conduite du changement (brochure session 2023), EDHEC CSM (brochure 2013), ESSCA.
+- Dates du parcours conservées selon le CV : Lille 2024 ; EDHEC 2009 ; ESSCA en cours T4 2026 ; DEMOS prévu T1 2027. Les dates des brochures ne remplacent pas les dates de formation.
+- Le module optionnel d’initiation IA de l’ESSCA n’est pas présenté comme suivi.
+- Remise de diplôme : lien https://lnkd.in/p/eSv4VPWD fourni par Rose-Marie, contenu non vérifié.
+- EDHEC : intitulé du CV « Master Management du développement commercial » conservé ; la brochure du « Cycle supérieur de management » est explicitement présentée comme référence distincte. Rose-Marie confirme de conserver l’intitulé Master et autorise la publication du lot 4.
