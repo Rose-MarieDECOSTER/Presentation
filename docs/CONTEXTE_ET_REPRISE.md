@@ -154,3 +154,8 @@ Rose-Marie souhaite travailler les témoignages ultérieurement et demande de pa
 - Les anciennes reproductions de la publication interne du portail sont retirées de la version courante. Elles sont remplacées par des illustrations HTML génériques, explicitement identifiées comme reconstituées.
 - Ne pas réintroduire d’extraits internes ni de données personnelles depuis les sources de travail. L’autorisation de publier le portfolio ne constitue pas une autorisation de publier les documents internes.
 - Une suppression dans la version courante ne purge pas l’historique Git ni les copies externes.
+
+
+## Extraits du magazine — 9 novembre 2026
+
+À la demande explicite de Rose-Marie, les deux visuels du magazine présentant le SharePoint sont réintégrés à la page Parcours professionnels. L’encadré d’accès interne entier, y compris le QR code, est masqué sur le second visuel. Les fichiers publiés sont des JPEG aplatis, sans original incorporé ; ne pas réintroduire les anciens SVG contenant les originaux. Cette autorisation concerne uniquement ces deux extraits.
