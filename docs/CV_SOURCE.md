@@ -32,7 +32,7 @@ Intégration transverse de plus de 500 collaborateurs ; module de formation pour
 
 Accompagnement opérationnel du PSE :
 
-Volontariat externe et reclassement interne : 240 collaborateurs concernés. Structuration de la démarche, SIPOC, modes opératoires et notices d’information.
+Contribution au volontariat externe et au reclassement interne. Structuration de la démarche, SIPOC, modes opératoires et notices d’information.
 
 Compétences
 

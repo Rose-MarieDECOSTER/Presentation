@@ -25,7 +25,7 @@ Portfolio de candidature de Rose-Marie De Coster. V1 demandée explicitement sur
 ## Réalisations retenues
 
 1. Parcours professionnels : démarche nationale de plus de 7 000 collaborateurs.
-2. Plan de sauvegarde de l’emploi : volontariat externe / reclassement interne, 240 collaborateurs concernés ; structuration, SIPOC, modes opératoires, notices.
+2. Plan de sauvegarde de l’emploi : volontariat externe / reclassement interne ; structuration, SIPOC, modes opératoires, notices.
 3. Appropriation de la nouvelle convention collective de la métallurgie (NCCM) : « Diagnostic, préconisations et plan d’action ». Pas de périmètre ou résultats supplémentaires connus.
 
 ## Parcours et formations
@@ -144,3 +144,13 @@ Rose-Marie souhaite travailler les témoignages ultérieurement et demande de pa
 - Cinq photos personnelles reçues et intégrées : 1 Portugal, 2 Tanzanie, 3 Santorin, 4 Rome, 5 Écosse. Fichiers originaux conservés ; cadrage d’affichage par CSS.
 - Photo destinée à la rubrique entreprises mentionnée dans le PDF source : pas identifiable dans ce PDF sans images. Les trois photos reçues ont été affectées explicitement par Rose-Marie à la page des réalisations (lot 2), et non au parcours entreprises. Attendre la photo ou son identification avant de la placer dans cette autre rubrique.
 - Validation reçue : publication des cinq photographies et des intitulés sur GitHub.
+
+
+## Mise à jour de confidentialité — 9 novembre 2026
+
+- Trois projets présentés séparément : portail SharePoint, diagnostic d’appropriation et accompagnement opérationnel du PSE.
+- Les pages projets présentent des synthèses publiques de la démarche et des compétences, sans résultats d’enquête, constats propres à l’entreprise, données individuelles, conditions financières ou circuits internes détaillés.
+- Aucun fichier ni aucune capture du document de travail fourni n’a été ajouté au dépôt.
+- Les anciennes reproductions de la publication interne du portail sont retirées de la version courante. Elles sont remplacées par des illustrations HTML génériques, explicitement identifiées comme reconstituées.
+- Ne pas réintroduire d’extraits internes ni de données personnelles depuis les sources de travail. L’autorisation de publier le portfolio ne constitue pas une autorisation de publier les documents internes.
+- Une suppression dans la version courante ne purge pas l’historique Git ni les copies externes.
