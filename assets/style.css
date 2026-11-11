@@ -78,3 +78,24 @@
 .project-detail>h1.parcours-project-title{max-width:none;font-size:clamp(29px,3.2vw,44px);line-height:1.2;letter-spacing:-1px}
 .project-detail .parcours-mission-intro{max-width:none;font-size:16px}
 @media(min-width:1200px){.project-detail .parcours-mission-intro{white-space:nowrap}}
+
+/* Lecture fluide sur toutes les pages, sans coupures imposées. */
+.detail{max-width:1180px}
+.intro,.lead,.detail>.lead{max-width:none}
+.detail>.lead{font-size:18px;line-height:1.65}
+h1,h2,h3{overflow-wrap:break-word;text-wrap:balance}
+p,li{ text-wrap:pretty }
+.project-detail>h1{max-width:none;font-size:clamp(30px,3.5vw,46px);line-height:1.2;letter-spacing:-1px}
+#personnel .travel-intro,.project-detail .parcours-mission-intro{white-space:normal}
+.project>div,.award>div,.career-hero>div{min-width:0}
+.editorial-photo{margin:32px 0 48px}
+.editorial-photo img{display:block;width:100%;height:auto;aspect-ratio:2.8;object-fit:cover;border-radius:3px}
+.editorial-photo figcaption{font-size:12px;color:#655b50;margin-top:10px;line-height:1.5}
+.editorial-photo figcaption a{color:inherit}
+@media(max-width:700px){
+ .detail>.lead,.intro{font-size:17px}
+ .editorial-photo{margin:24px 0 32px}
+ .editorial-photo img{aspect-ratio:1.65}
+ .detail h1{letter-spacing:-1px}
+ .contact-links{flex-wrap:wrap}
+}
