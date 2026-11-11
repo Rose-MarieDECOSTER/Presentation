@@ -69,3 +69,7 @@
 .interests h3{font-size:21px}
 @media(max-width:1050px){#distinction .award{flex-direction:column}}
 @media(max-width:480px){.interest-photo{width:56px;height:56px}.interest-heading{gap:12px}.interest-heading h3{font-size:19px}}
+
+/* Introduction des voyages sur une ligne sur ordinateur */
+#personnel .travel-intro{max-width:none;font-size:16px}
+@media(min-width:1100px){#personnel .travel-intro{white-space:nowrap}}
