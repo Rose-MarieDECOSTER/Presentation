@@ -64,8 +64,8 @@
 #distinction .award{align-items:flex-start}
 #distinction .award>div{max-width:760px}
 #distinction .award .button{flex-shrink:0}
-.interests article{display:flex;align-items:center;gap:20px}
-.interest-photo{display:block;width:112px;height:112px;object-fit:cover;border-radius:8px;flex-shrink:0}
+.interests article{display:block}.interest-heading{display:flex;align-items:center;gap:16px;margin-bottom:14px;min-height:64px}.interest-heading h3{margin:0}
+.interest-photo{display:block;width:64px;height:64px;object-fit:cover;border-radius:8px;flex-shrink:0}
 .interests h3{font-size:21px}
 @media(max-width:1050px){#distinction .award{flex-direction:column}}
-@media(max-width:480px){.interest-photo{width:80px;height:80px}.interests article{gap:16px}}
+@media(max-width:480px){.interest-photo{width:56px;height:56px}.interest-heading{gap:12px}.interest-heading h3{font-size:19px}}
