@@ -59,3 +59,13 @@
  .career-recognition p{font-size:14px}
  .career-recognition .eyebrow{font-size:9px;letter-spacing:1px}
 }
+
+/* Ajustements de relecture — novembre 2026 */
+#distinction .award{align-items:flex-start}
+#distinction .award>div{max-width:760px}
+#distinction .award .button{flex-shrink:0}
+.interests article{display:flex;align-items:center;gap:20px}
+.interest-photo{display:block;width:112px;height:112px;object-fit:cover;border-radius:8px;flex-shrink:0}
+.interests h3{font-size:21px}
+@media(max-width:1050px){#distinction .award{flex-direction:column}}
+@media(max-width:480px){.interest-photo{width:80px;height:80px}.interests article{gap:16px}}
