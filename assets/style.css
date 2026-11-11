@@ -73,3 +73,8 @@
 /* Introduction des voyages sur une ligne sur ordinateur */
 #personnel .travel-intro{max-width:none;font-size:16px}
 @media(min-width:1100px){#personnel .travel-intro{white-space:nowrap}}
+
+/* Présentation du projet Parcours Professionnels */
+.project-detail>h1.parcours-project-title{max-width:none;font-size:clamp(29px,3.2vw,44px);line-height:1.2;letter-spacing:-1px}
+.project-detail .parcours-mission-intro{max-width:none;font-size:16px}
+@media(min-width:1200px){.project-detail .parcours-mission-intro{white-space:nowrap}}
